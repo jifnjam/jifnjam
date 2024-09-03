@@ -1,5 +1,4 @@
-Hello everyone, I’m @jifnjam. I'm developing a website called "All About Africa."
-
+Here is my website ...
 
 <!---
 jifnjam/jifnjam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
