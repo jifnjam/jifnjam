@@ -12,8 +12,9 @@ Portfolio Website:
 
 ## Projects
 - All About Africa Website
-- jifnmaps Twitter page
+- jifnmaps Twitter page w/ bots
 - Live Flight Tracker
+- Landmarkia
 
 <!---
 jifnjam/jifnjam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
