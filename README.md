@@ -1,4 +1,4 @@
-Portfolio Website: 
+Portfolio Website: (coming soon!)
 
 ## What I Do/Interests
 - Python (Pandas, Bokeh, Flask)
@@ -12,9 +12,9 @@ Portfolio Website:
 
 ## Projects
 - All About Africa Website
-- jifnmaps Twitter page w/ bots
-- Live Flight Tracker
-- Landmarkia
+- Flighty Tracker
+- jifnmaps Twitter page w/ bots (coming soon!)
+- Landmarkia (coming soon!)
 
 <!---
 jifnjam/jifnjam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
