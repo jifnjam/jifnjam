@@ -10,7 +10,7 @@ Portfolio Website: (coming soon!)
 - Global Health
 
 
-## Projects
+## Projects (Actively Maintained Projects)
 - Pilot Cognitive Workload Monitor
 
 <!---
