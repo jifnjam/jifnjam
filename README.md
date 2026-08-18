@@ -11,10 +11,7 @@ Portfolio Website: (coming soon!)
 
 
 ## Projects
-- All About Africa Website
-- Flighty Tracker
-- jifnmaps Twitter page w/ bots (coming soon!)
-- Landmarkia (coming soon!)
+- Pilot Cognitive Workload Monitor
 
 <!---
 jifnjam/jifnjam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
